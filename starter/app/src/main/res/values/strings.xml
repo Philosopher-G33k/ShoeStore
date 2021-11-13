@@ -1,3 +1,34 @@
 <resources>
     <string name="app_name">ShoeStore</string>
+    <string name="username_label">Username</string>
+    <string name="password_label">Password</string>
+    <string name="username_text">Enter your username</string>
+    <string name="password_text">Enter your password</string>
+    <string name="login_button">Login</string>
+    <string name="signup_button">Signup</string>
+    <string name="welcome_text1">Welcome to the FootLoose.\nYour very own shoe store</string>
+    <string name="welcome_text2">Footloose.com is all about footwear. We have been in the shoe business for over 130 years. Yes, you read that correctly, over a century plus a quarter.\nToday we are proud to offer our best customer service to patrons both online here at Footloose.com. For more information about the 130+ history of Stout\'s Footwear, visit our history page.</string>
+    <string name="enter_button">Enter</string>
+    <string name="instructions_textview1">How to use the App</string>
+    <string name="instructions_textview2"> 1. View the list of available shoes in  scrollable list\n
+    2. Click on the "+" button on bottom right of the screen to add a new shoe.\n
+    3. on details page, you can enter the shoe details like:\n
+    \t\t\ta. Shoe name \n\t\t\tb. Brand \n\t\t\tc. Shoe size \n\t\t\td. Description\n
+    4. Click on save button to save the details.\n
+    5. Click on cancel button to discard and go back to previous screen.</string>
+    <string name="instructions_button">I Understand</string>
+    <string name="shoeListTextView">No shoes available</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="shoeNameLabel">Name</string>
+    <string name="shoeNameTextHint">Enter shoe name</string>
+    <string name="shoeCompanyLabel">Brand</string>
+    <string name="shoeCompanyTextHint">Enter brand name here</string>
+    <string name="shoePriceTextLabel">Price</string>
+    <string name="shoePriceTextViewHint">Enter price here</string>
+    <string name="shoeDescriptionLabelText">Description</string>
+    <string name="shoeDescriptionTextViewHint">Enter shoe description</string>
+    <string name="menu_item_logout">Logout</string>
+    <string name="shoe_details_save_button_text">Save</string>
+    <string name="shoe_details_cancel_button_text">Cancel</string>
 </resources>
