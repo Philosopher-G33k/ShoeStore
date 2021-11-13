@@ -38,10 +38,9 @@ class MainActivity : AppCompatActivity() {
         when (item.itemId){
             R.id.menu_item_logout ->
             if (binding.fragmentContainerView.findNavController().currentDestination?.id.toString() != R.id.loginFragment.toString()) {
-                Toast.makeText(this,"Is Not Login Fragment", Toast.LENGTH_SHORT).show()
                 binding.fragmentContainerView.findNavController().popBackStack(R.id.loginFragment,false)
             }else {
-                Toast.makeText(this,"Is Login Fragment", Toast.LENGTH_SHORT).show()
+                
             }
 
         }
